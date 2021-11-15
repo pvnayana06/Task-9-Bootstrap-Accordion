@@ -1,0 +1,21 @@
+body
+{
+    display: block;
+}
+nav
+{
+    background-color: rgb(255, 117, 117);
+}
+ .navbar-brand img
+ {
+     max-height: 70px;
+     padding-top: 10px;
+ }
+ .navbar-brand
+ {
+     font-size:30px;
+     text-transform:uppercase;
+     color: rgb(51, 0, 0);
+     
+ }
+ 
